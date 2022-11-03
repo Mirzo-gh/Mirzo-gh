@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirzo-gh
+- 👋 Hi, I’m @Mirzo
 - 👷‍♂️ I'm CTO in a web agency @Lille
 - 👀 I’m interested in javascript things
 - 📫 How to reach me mirzo.contact@gmail.com
